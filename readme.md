@@ -2,7 +2,9 @@ PATROLLER
 ===
 
 __Robot patroller for robot navigation between landmarks__
-![image](docs/patroller.gif)
+
+![image](img/patroller.gif)
+
 Set some landmarks so the robot will automatic navigate between those landmarks.
 
 ## Usage
